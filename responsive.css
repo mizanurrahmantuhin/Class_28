@@ -1,0 +1,144 @@
+.banner img{
+    width:100%;
+}
+@media (max-width:991px) {
+    .banner-text{
+        margin-top: 0 !important;
+        padding-top: 0 !important;
+    }
+    .aboutsss {
+        padding-top: 0 !important;
+    }
+    .aboutsss h1 {
+        font-size: 30px;
+        padding-bottom: 0 !important;
+    }
+    .about p {
+        font-weight: 400;
+        font-size: 14px;
+    }
+    .apps1 {
+        font-size: 30px;
+    }
+    h5.hfive {
+        font-size: 16px;
+        padding: 5px 0;
+    }
+    .positions {
+        position: absolute;
+        top: -35px;
+        left: 20px;
+    }
+    .positions img {
+        width: 60px;
+    }
+}
+@media (max-width:767px) {
+    .banner-text{
+        margin-top: 0 !important;
+        padding-top: 0 !important;
+    }
+    .banner h1 {
+        font-size: 27px;
+    }
+    .banner p {
+        font-weight: 400;
+        font-size: 15px;
+    }
+    .banner-text h5{
+        margin-top: 0 !important;
+        padding-top: 0 !important;
+    }
+    .aboutsss {
+        padding-top: 0 !important;
+        margin-top: -25px;
+    }
+    .aboutsss h1 {
+        font-size: 23px;
+        padding-bottom: 0 !important;
+    }
+    .aboutsss h5 {
+        font-size: 18px;
+    }
+    .p-cards p {
+        font-size: 15px;
+    }
+    .card-bodyy h3 {
+        font-size: 22px;
+    }
+    .card-bodyy h6 {
+        font-size: 15px;
+    }
+    .p-cards p {
+        font-size: 11px;
+        line-height: 20px;
+    }
+}
+@media (max-width:575px){
+    .aboutsss {
+        margin-top: 25px;
+    }
+    .countss{
+        padding: 0 !important;
+    }
+    .nmbr {
+        padding: 20px 0;
+        border-bottom: 1px solid #ddd;
+        margin-bottom: 10px;
+    }
+    .card-bodyy {
+        position: relative;
+        margin-bottom: 35px;
+    }
+    .positions {
+        top: -40px;
+        left: 0px;
+    }
+    .positions img {
+        width: 58%;
+    }
+    .card-bodyy h3 {
+        font-size: 35px;
+    }
+    .card-bodyy h6 {
+        font-size: 20px;
+    }
+    .p-cards p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+}
+@media (max-width:490px){
+    .positions img {
+        width: 45%;
+    }
+}
+@media (max-width:330px){
+    .apps1 {
+        font-size: 25px;
+    }
+    h5.hfive {
+        font-size: 12px;
+        padding: 5px 0;
+        line-height: 22px;
+    }
+    .positions img {
+        width: 42%;
+    }
+    .positions {
+        left: -36px;
+    }
+    .contact h2 {
+        font-size: 19px;
+    }
+    .contact h5 {
+        font-size: 15px;
+    }
+    .contact p {
+        font-size: 14px;
+        font-weight: 500;
+    }
+    footer p {
+        font-size: 10px;
+    }
+}

@@ -1,0 +1,82 @@
+    .banner{
+        background-color: #f9f9ff;
+    }
+    .banner p{
+        font-weight: 400;
+    }
+    .banner a{
+        background-color: #838fff;
+        color: #fff;
+    }
+    .about a{
+        background-color: #838fff;
+        color: #fff;
+    }
+    .about p{
+        font-weight: 400;
+    }
+    .countss{
+        background-color: #838fff;
+    }
+    .apps{
+        background-color: #f9f9ff;
+    }
+    .circle {
+        background-color: #f9f9ff;
+        display: inline-block;
+        height: 80px;
+        width: 80px;
+        line-height: 94px;
+        margin: auto;
+        border-radius: 50%;
+    }
+    .p-cards {
+        box-shadow: 1px 3px 19px rgb(0 0 0 / 17%);
+        background-color: #fff;
+    }
+    .p-shadow {
+        box-shadow: 2px 6px 47px 3px hsla(216, 87%, 30%, 0.43);
+    }
+    .p-cards p{
+        font-weight: 400;
+    }
+    .website {
+        text-decoration: none;
+        color: black !important;
+        box-shadow: 1px 2px 22px rgb(0 0 0 / 50%);
+        background-color: ;
+        display: inline-block;
+        padding: 5px 12px;
+        font-weight: 600;
+        background-color: #f8f9fa;
+    }
+    .card-bodyy{
+        position: relative;
+    }
+    .card-bodyy h3{
+        color: #282d31;
+    }
+    .card-bodyy h6{
+        color: #313539;
+    }
+    .card-bodyy p{
+        color: #313539;
+        font-weight: 500;
+    }
+    .positions {
+        position: absolute;
+        top: -70px;
+        left: 18px;
+    }
+    .contact{
+        background-color: #f9f9ff;
+    }
+    .contme{
+        background-color: #10a2b8;
+        font-size:18px;
+        
+    }
+    .contact p{
+        font-size: 19px;
+        font-weight: 500;    
+    }
